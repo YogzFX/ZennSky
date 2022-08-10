@@ -304,9 +304,9 @@ let menuu = `
 const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         listMessage: {
             "title": `*${ucapan()}, ${name}*`.trim(),
-                        "description": `©️ *Danibotz-Ofc*`.trim(),
+                        "description": `©️ *𝑍𝑒𝑛𝑛𝑆𝑘𝑦-𝐵𝑜𝑡𝑧*`.trim(),
                         "footerText": "Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada owner.",
-                        "buttonText": "Click Here",
+                        "buttonText": "MENU",
             listType: 1,
            FooterText:'',
             mtype: 'listMessage',
