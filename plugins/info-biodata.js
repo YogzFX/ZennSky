@@ -3,11 +3,11 @@ let fs = require('fs')
 let handler = async (m) => {
 let krizyn = `
 •·––––––––––––––––––––––––––·•
-❑ *Nama* : Dani Ganz
-❑ *Umur* : 15 Tahun
-❑ *Kelas* : 9 SMP
-❑ *Ulang Tahun* : 16 DESEMBER 2007
-❑ *Alamat* : Indonesia, Kalimantan Selatan, Kandangan
+❑ *Nama* : Yogi
+❑ *Umur* : 17
+❑ *Kelas* : 1 SD
+❑ *Ulang Tahun* : 16 DESEMBER 2005
+❑ *Alamat* : Mars
 •·––––––––––––––––––––––––––·•
 	`.trim()
   let message = await prepareWAMessageMedia({ image: await (await require('node-fetch')(fotonya7)).buffer()}, { upload: conn.waUploadToServer }) 
