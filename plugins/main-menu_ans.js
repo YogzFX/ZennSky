@@ -25,7 +25,7 @@ Bot ini bisa membantu kamu atau mempermudah kamu membuat sesuatu atau pun mendow
                 {
                urlButton: {
                displayText: '🐻Instagram creator🐻',
-               url: web
+               url: webm
              }
 
            },
