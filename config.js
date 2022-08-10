@@ -33,15 +33,15 @@ global.nomer = 'https://wa.me/6289510598381' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti pakai foto bot mu
-global.fotonya3 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
-global.fotonya6 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini ganti pakai foto sosialmedia mu
-global.fotonya7 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
-global.fotonya8 = 'https://telegra.ph/file/14ec0e0c93af4812d1fd7.jpg' //foto session
-global.donasi = 'https://telegra.ph/file/c171460c1e60d22ea379e.jpg' //ganti pakai poto payment atau apa
+global.fotonya1 = 'https://telegra.ph/file/897b3e2a61f675cb0c644.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/897b3e2a61f675cb0c644.jpg' //ini juga ganti pakai foto bot mu
+global.fotonya3 = 'https://telegra.ph/file/897b3e2a61f675cb0c644.jpg' //ini juga ganti
+global.fotonya4 = 'https://telegra.ph/file/897b3e2a61f675cb0c644.jpg' //ini juga ganti
+global.fotonya5 = 'https://telegra.ph/file/897b3e2a61f675cb0c644.jpg' //ini juga ganti
+global.fotonya6 = 'https://telegra.ph/file/897b3e2a61f675cb0c644.jpg' //ini ganti pakai foto sosialmedia mu
+global.fotonya7 = 'https://telegra.ph/file/897b3e2a61f675cb0c644.jpg' //ini juga ganti
+global.fotonya8 = 'https://telegra.ph/file/897b3e2a61f675cb0c644.jpg' //foto session
+global.donasi = 'https://telegra.ph/file/48552ad5df9ba7235cf1b.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '𝑍𝑒𝑛𝑛𝑆𝑘𝑦-𝐵𝑜𝑡𝑧'
