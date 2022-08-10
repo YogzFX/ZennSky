@@ -10,7 +10,7 @@ let handler = async function (m, { text, usedPrefix }) {
   if (!age) throw 'Umur tidak boleh kosong (Angka)'
   age = parseInt(age)
   if (age > 90) throw 'Umur terlalu tua'
-  if (age < 3) throw 'Bayi bisa ngetik sesuai format bjir ._.'
+  if (age < 5) throw 'Bayi bisa ngetik sesuai format bjir ._.'
   user.name = name
   user.age = parseInt(age)
   user.regTime = + new Date
@@ -32,7 +32,7 @@ let handler = async function (m, { text, usedPrefix }) {
 Gunakan Bot Secukupnya
 Dont Call/Vc Bot 
 `.trim())
-u = '╭─❒ 〔 HALLO NEW PREN 〕\n\n❍ Jika mau ke Pengaturan Bot Klik Tombol "Rules Bot"\n❍ Jika menuju menu Klik tombol "Tampilan Menu"\n❍ Jika mau cari owner Klik tombol "Owner"\n\nPatuhi Rules nya,demi kenyamanan kita bersama.'
+u = '╭─❒ 〔 HALLO KIDS 〕\n\n❍ Jika mau ke Pengaturan Bot Klik Tombol "Rules Bot"\n❍ Jika menuju menu Klik tombol "Tampilan Menu"\n❍ Jika mau cari owner Klik tombol "Owner"\n\nPatuhi Rules nya,demi kenyamanan kita bersama.'
 await conn.send3But(m.chat, u, wm, 'Rules', '#snk', 'Command', '#zifa', 'Owner', '#owner',  m)
 }
 handler.help = ['daftar', 'reg', 'register'].map(v => v + ' <nama>.<umur>')
